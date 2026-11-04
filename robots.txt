@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yqq51607-creator.github.io/sitemap.xml
